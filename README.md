@@ -1,10 +1,4 @@
-<img class="aligncentre" height =192 src="https://github.com/ayshik-halder/ayshik-halder/blob/master/readme/1b1565bb-d7a8-4bad-b146-a92ed4af71f4_2.jpg">
- <style>
-.aligncenter {
-    text-align: center;
-}
-</style>
-
+<img  height="480" src="https://github.com/ayshik-halder/ayshik-halder/blob/master/readme/1b1565bb-d7a8-4bad-b146-a92ed4af71f4_2.jpg">
 
 ### Hey, It's <b>Ayshik Halder</b> here
 
