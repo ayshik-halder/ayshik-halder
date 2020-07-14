@@ -28,10 +28,10 @@ I am an enthusiast programmer and aspiring undergraduate from St. Xavier's Colle
   <i>You can reach me on given below places. Dont forget to star my Repositories and following me on GitHub for more content.</i>
 
   <p align="center">
-    <a href="https://twitter.com/AyshikHalder" alt="Twitter"><img src="https://github.com/ayshik-halder/ayshik-halder/blob/master/readme/twitter-fill.svg" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/ayshik-h-50aba0139/" alt="Linkedin"><img src="https://github.com/ayshik-halder/ayshik-halder/blob/master/readme/linkedin-fill.svg" target="_blank"></a>
-    <a href="mailto:halderayshik@gmail.com" alt="Contact me"><img src="https://github.com/ayshik-halder/ayshik-halder/blob/master/readme/external-link-line.svg" target="_blank"></a>
-    <!-- <a href="https://ayshik-halder.github.io" alt="My site"><img src="readme/external-link-line.svg"></a> -->
+    <a href="https://twitter.com/AyshikHalder" target="_blank" alt="Twitter"><img src="https://github.com/ayshik-halder/ayshik-halder/blob/master/readme/twitter-fill.svg" ></a>
+    <a href="https://www.linkedin.com/in/ayshik-h-50aba0139/" target="_blank" alt="Linkedin"><img src="https://github.com/ayshik-halder/ayshik-halder/blob/master/readme/linkedin-fill.svg" ></a>
+    <a href="mailto:halderayshik@gmail.com" target="_blank" alt="Contact me"><img src="https://github.com/ayshik-halder/ayshik-halder/blob/master/readme/external-link-line.svg"></a>
+    <!-- <a href="https://ayshik-halder.github.io" target="_blank" alt="My site"><img src="readme/external-link-line.svg"></a> -->
   </p>
   
 </p>
