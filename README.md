@@ -1,4 +1,4 @@
-<img align="centre" height =192 src="https://github.com/ayshik-halder/ayshik-halder/blob/master/readme/1b1565bb-d7a8-4bad-b146-a92ed4af71f4_2.jpg">
+<img align="middle" height =192 src="https://github.com/ayshik-halder/ayshik-halder/blob/master/readme/1b1565bb-d7a8-4bad-b146-a92ed4af71f4_2.jpg">
 
 ### Hey, It's <b>Ayshik Halder</b> here
 
@@ -28,7 +28,7 @@ I am an enthusiast programmer and aspiring undergraduate from St. Xavier's Colle
   <i>You can reach me on given below places. Dont forget to star my Repositories and following me on GitHub for more content.</i>
 
   <p align="center">
-    <a href="https://twitter.com/AyshikHalder" alt="Twitter"><img src="https://github.com/ayshik-halder/ayshik-halder/blob/master/readme/twitter-fill"></a>
+    <a href="https://twitter.com/AyshikHalder" alt="Twitter"><img src="https://github.com/ayshik-halder/ayshik-halder/blob/master/readme/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/ayshik-h-50aba0139/" alt="Linkedin"><img src="https://github.com/ayshik-halder/ayshik-halder/blob/master/readme/linkedin-fill.svg"></a>
     <a href="mailto:halderayshik@gmail.com" alt="Contact me"><img src="https://github.com/ayshik-halder/ayshik-halder/blob/master/readme/external-link-line.svg"></a>
     <!-- <a href="https://ayshik-halder.github.io" alt="My site"><img src="readme/external-link-line.svg"></a> -->
