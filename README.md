@@ -18,7 +18,7 @@ I am an enthusiast programmer and aspiring undergraduate from St. Xavier's Colle
   
   - I used to play competitive multiplayer games such as CSGO, Dota2 etc, but now i use my free time to read subreddits and articles on programming languages and various advancements in IT industry.
   
-  - I am a FC Barcelone fan since childhood. Never missed any big games especially el classicos since 2011. #forcaBarca
+  - I am a cule,aka,FC Barcelona fan since childhood. Never missed any big games especially el classicos since 2011. #forcaBarca
   ![My github stats](https://github-readme-stats.vercel.app/api?username=ayshik-halder&show_icons=true)
 </details>
  
