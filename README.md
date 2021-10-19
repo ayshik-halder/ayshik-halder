@@ -1,9 +1,10 @@
-<img  height="480" src="https://github.com/ayshik-halder/ayshik-halder/blob/master/readme/1b1565bb-d7a8-4bad-b146-a92ed4af71f4_2.jpg">
+<img  height="480" src="https://github.com/ayshik-halder/ayshik-halder/blob/master/readme/ayshik.gif">
 
-### Hey, It's <b>Ayshik Halder</b> here
+### 
+## <a href="https://ayshik-halder.github.io/" rel="noreferrer" target="_blank"> <img src="images/html-icons/../click-here.gif" width=64 > </a> Click to visit my page!
 
 I am an enthusiast programmer and aspiring undergraduate from St. Xavier's College, Burdwan. I love experimenting with new technologies and building small projects.Most of my works are based on :
- > C | C++ | JAVA | Spring | MySQL | JavaScript | HTML | CSS | BASH | XML
+ > JAVA | Spring | MySQL | JavaScript | UI/UX | Swift 
 
 - 💻 Learning and Developing Backends based on RestAPI using Java-Spring .
 - ☀️ Experimenting on various shell scripting on Linux.
