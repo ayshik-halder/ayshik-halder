@@ -1,7 +1,7 @@
 <img  height="480" src="https://github.com/ayshik-halder/ayshik-halder/blob/master/readme/ayshik.gif">
 
 ### 
-## <a href="https://ayshik-halder.github.io/" rel="noreferrer" target="_blank"> <img src="images/html-icons/../click-here.gif" width=64 > </a> Click to visit my page!
+## <a href="https://ayshik-halder.github.io/" rel="noreferrer" target="_blank"> <img src="https://github.com/ayshik-halder/ayshik-halder/blob/master/readme/click-here.gif" width=64 > </a> Click to visit my page!
 
 I am an enthusiast programmer and aspiring undergraduate from St. Xavier's College, Burdwan. I love experimenting with new technologies and building small projects.Most of my works are based on :
  > JAVA | Spring | MySQL | JavaScript | UI/UX | Swift 
